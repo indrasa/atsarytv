@@ -546,3 +546,28 @@ https://tv.rodja.live/aliman/HD/chunklist_w1549317106.m3u8
 
 #EXTINF:0 tvg-id="Kritik Saran WA 08197400008" tvg-name="Kritik Saran WA 08197400008" tvg-logo="" group-title="TV Islam",Kritik Saran 08197400008
 http://stream.asianastream.com:1935/live/ngrp:madanitv_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/euAMoMGy4JEKPAe1i-C8WPsvumU=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7464/333535.png" tvg-id="RIYAN.bbb1e9c8c12b1b0a0a71f06ecb64ff2a.SHINTA" tvg-name"ATSARYTV AJWA TV _VIDIO" group-title="TV ISLAM 2",ATSARYTV AJWA TV _VIDIO
+//RELIGI
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/L-T7VnfcN2Wk5nDNelMi3IRdJPI=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6678/citra-muslim-68ac64.jpg" tvg-id="RIYAN.48b28999b156ce56298c605ec16a843c.SHINTA" tvg-name"ATSARYTV Citra Muslim _VIDIO" group-title="TV ISLAM 2",ATSARYTV Citra Muslim _VIDIO
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=c4f8a2db7f8704b0bdaa266d61ef48c3102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/yz8y9eL4shlNzIj8LXBKmOIKGD4=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6852/al-quran-al-kareem-tv-62095c.jpg" tvg-id="RIYAN.6959ad6ff053f0b1a449d008c4c55ab7.SHINTA" tvg-name"ATSARYTV Al Quran Al Kareem TV _VIDIO" group-title="TV ISLAM 2",ATSARYTV Al Quran Al Kareem TV _VIDIO
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=6e96be832cf8bc6b35a956e8fb66c76a102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tvmui_big.png?v=2.0.0.13" group-title="TV ISLAM 2"  tvg-id="Riyan.c898844bf38c963b8a7466e0f86b8e3b.Coday" tvg-name"ATSARYTV MUI TV _USEETV",ATSARYTV MUI TV _USEETV
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=bc8f15412d651a484a275664ff639db5&cdy=cb70ab375662576bd1ac5aaf16b3fca4929e1483a669dbfdea389395f1bc729f
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tv9_big.png?v=2.0.0.13" group-title="TV ISLAM 2"  tvg-id="Riyan.281b6751bcbfde745224a3890a5f735c.Coday" tvg-name"ATSARYTV TV9 NU _USEETV",ATSARYTV TV9 NU _USEETV
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=bc8f15412d651a484a275664ff639db5&cdy=9188905e74c28e489b44e954ec0b9bca929e1483a669dbfdea389395f1bc729f
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_uchannel_big1.png?v=2.0.0.13" group-title="TV ISLAM 2"  tvg-id="Riyan.b85d81c918ba065ffb971de89ed2bfd9.Coday" tvg-name"ATSARYTV UChannel _USEETV",ATSARYTV UChannel _USEETV
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=bc8f15412d651a484a275664ff639db5&cdy=f0935e4cd5920aa6c7c996a5ee53a70f929e1483a669dbfdea389395f1bc729f
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_alquran_big1.png?v=2.0.0.13" group-title="TV ISLAM 2"  tvg-id="Riyan.7df52d7f2f923a0f64cbd086fa984a17.Coday" tvg-name"ATSARYTV AlQuran Kareem _USEETV",ATSARYTV AlQuran Kareem _USEETV
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=bc8f15412d651a484a275664ff639db5&cdy=98f13708210194c475687be6106a3b84929e1483a669dbfdea389395f1bc729f
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tawaftv_big.png" group-title="TV ISLAM 2"  tvg-id="Riyan.58e345d0f9fcc82978ac75cae537866e.Coday" tvg-name"ATSARYTV Tawaf TV _USEETV",ATSARYTV Tawaf TV _USEETV
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=bc8f15412d651a484a275664ff639db5&cdy=ef0d3930a7b6c95bd2b32ed45989c61f929e1483a669dbfdea389395f1bc729f
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_mqtv_big1.png?v=2.0.0.13" group-title="TV ISLAM 2"  tvg-id="Riyan.677c692b8963bbb84ec93ea709c292a0.Coday" tvg-name"ATSARYTV MQTV _USEETV",ATSARYTV MQTV _USEETV
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=bc8f15412d651a484a275664ff639db5&cdy=37693cfc748049e45d87b8c7d8b9aacd929e1483a669dbfdea389395f1bc729f
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_mtatv_big1.png?v=2.0.0.13" group-title="TV ISLAM 2"  tvg-id="Riyan.e0977a949b52d6ec7fd9c2956e8590b8.Coday" tvg-name"ATSARYTV MTATV _USEETV",ATSARYTV MTATV _USEETV
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=bc8f15412d651a484a275664ff639db5&cdy=e369853df766fa44e1ed0ff613f563bd929e1483a669dbfdea389395f1bc729f
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_muhammadiyahtv_big1.png?v=2.0.0.13" group-title="TV ISLAM 2"  tvg-id="Riyan.5d6aa1e3f7af265d8990bc1be225b049.Coday" tvg-name"ATSARYTV Muhammadiyah TV _USEETV",ATSARYTV Muhammadiyah TV _USEETV
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=bc8f15412d651a484a275664ff639db5&cdy=34173cb38f07f89ddbebc2ac9128303f929e1483a669dbfdea389395f1bc729f
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_rodjatv_big1.png?v=2.0.0.13" group-title="TV ISLAM 2"  tvg-id="Riyan.66392ae1339fb315390121668361ebb2.Coday" tvg-name"ATSARYTV Rodja TV _USEETV",ATSARYTV Rodja TV _USEETV
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=bc8f15412d651a484a275664ff639db5&cdy=6c8349cc7260ae62e3b1396831a8398f929e1483a669dbfdea389395f1bc729f
