@@ -1,0 +1,50 @@
+#EXTM3U
+
+#EXTINF:-1,MAKKAH LIVE
+http://m.live.net.sa:1935/live/quran/chunklist_w153025064.m3u8
+
+#EXTINF:-1,MADINAH LIVE
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8?checkedby:iptvcat.com
+ 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2688298982/c72a7ffdfe26848175c9571ef26a451d_400x400.png" group-title="Religion",RODJA TV
+http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://live.artvisi.or.id/logo/alimantv.png" group-title="Religion",AL IMAN TV
+http://tv.aliman.id:1935/aliman/HD/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvislamonline.com/images/logo/wesal.png" group-title="Religion",WESAL TV
+http://119.235.249.58:1935/wesaltv/live/chunklist_w98961653.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvislamonline.com/images/logo/surautv.png" group-title="Religion",SURAU TV
+http://119.235.249.58:1935/surautv/live/chunklist_w180939424.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvislamonline.com/images/logo/ahsan.png" group-title="Religion",AHSAN TV
+http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvislamonline.com/images/logo/niagatv.png" group-title="Religion",NIAGA TV
+http://119.235.249.58:1935/niagatv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://live.artvisi.or.id/logo/ashiiltv.png" group-title="Religion",ASHIIL TV
+http://wowza60.indostreamserver.com:1935/ashiiltv2/android/chunklist_w394364842.m3u8
+
+#EXTINF:-1 tvg-logo="http://live.artvisi.or.id/logo/muadztv.png" group-title="Religion",Muadz TV
+http://wowza60.indostreamserver.com:1935/muadztv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://live.artvisi.or.id/logo/radiokitatv.png" group-title="Religion",RadioKita TV
+https://h1.intechmedia.net/intech/ch16.m3u8
+
+#EXTINF:-1 tvg-logo="http://live.artvisi.or.id/logo/rifqantv.png" group-title="Religion",RIFQAN TV
+http://119.82.232.89:1935/rifqan/bismillah/chunklist_w980315644.m3u8
+
+#EXTINF:-1 #EXTINF:-1 tvg-logo="http://www.tvislamonline.com/images/logo/insantv.png" group-title="Religion",INSAN TV
+http://wz.insantv.net/group/ngrp:insantv_mobile/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://live.artvisi.or.id/logo/puldapiitv.png" group-title="Religion",PULDAPI TV
+http://103.77.106.227:8080/hls/web.m3u8
+
+#EXTINF:-1 tvg-logo="http://live.artvisi.or.id/logo/mgitv.png" group-title="Religion",MGI TV
+https://tv.rodja.live/tasik/mgitv/chunklist_w791927921.m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="Religion", AtsaryTV - Dzikir Pagi oleh Atsary TV
+https://r2---sn-2uuxa3vh-5hpl.googlevideo.com/videoplayback?expire=1626870808&ei=uL_3YMi2Bs6wjuMP79qJ6A0&ip=110.136.217.230&id=o-AGEkI-uspb8FGNXvzvwVXLaXHngtg0hCD4MHpXI55sKd&itag=22&source=youtube&requiressl=yes&mh=XC&mm=31%2C29&mn=sn-2uuxa3vh-5hpl%2Csn-npoeene7&ms=au%2Crdu&mv=m&mvi=2&pcm2cms=yes&pl=22&initcwndbps=38750&vprv=1&mime=video%2Fmp4&ns=LiW-1otEe-MT1p6DlQy3ZU0G&cnr=14&ratebypass=yes&dur=1166.477&lmt=1626828817810222&mt=1626848923&fvip=2&fexp=24001373%2C24007246&beids=24064826&c=WEB&txp=6211224&n=Q7hjxf6Uc_VjHmP&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Ccnr%2Cratebypass%2Cdur%2Clmt&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhAJYZ0YCFwvm73UYpZhXgDjC0DuAS_uOohaQyR4sHGBzVAiAwrpofFdEmO2ItzP7tzh0EAvASotqURpzkJnGO8OpWUw%3D%3D&sig=AOq0QJ8wRQIhALIy7ewYTEGSNHFgAjCmWpMBnNxfJEYZLYHNLcrRIuORAiAFssvaj7d51gY0rx78ueaP90i47tJbNY2iFnXXcXpsaQ%3D%3D
